@@ -1,9 +1,7 @@
 ## Hi there 👋
 Welcome to my profile! My name is **Tuan Huynh**👋
-I am currently enrolled as a full-time psychology student at SFSU with hopes of obtaining my Masters of Science in Data Science 💼🏫. 
-Moreover, I'm currently focused on data analysis and its application in HR, with a particular interest in integrating psychological concepts to enhance organizational strategies. I’m working on building my foundation in data analysis and visualization tools to improve decision-making and reporting within the workplace. 💻 
-
-More importantly, I love, love, data visualization tools 👨‍💻
+I am currently a full-time psychology student at SFSU, with aspirations to obtain my Master of Science in Data Science 💼🏫.
+I am passionate about combining psychological principles and applications with data science to enhance organizational strategies. My focus is on building a strong foundation in data analysis and visualization tools to drive data-informed decision-making and improve workplace outcomes. 💻
 
 Let's connect on [LinkedIn!🔗](https://www.linkedin.com/in/tuan-h-232th/)
 ## 
